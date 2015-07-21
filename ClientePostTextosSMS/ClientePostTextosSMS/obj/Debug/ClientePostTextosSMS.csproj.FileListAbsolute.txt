@@ -6,3 +6,4 @@ c:\users\esteban\documents\visual studio 2012\Projects\ClientePostTextosSMS\Clie
 c:\users\esteban\documents\visual studio 2012\Projects\ClientePostTextosSMS\ClientePostTextosSMS\bin\System.Net.Http.xml
 c:\users\esteban\documents\visual studio 2012\Projects\ClientePostTextosSMS\ClientePostTextosSMS\obj\Debug\ClientePostTextosSMS.dll
 c:\users\esteban\documents\visual studio 2012\Projects\ClientePostTextosSMS\ClientePostTextosSMS\obj\Debug\ClientePostTextosSMS.pdb
+c:\users\esteban\documents\visual studio 2012\Projects\ClientePostTextosSMS\ClientePostTextosSMS\obj\Debug\ClientePostTextosSMS.csprojResolveAssemblyReference.cache

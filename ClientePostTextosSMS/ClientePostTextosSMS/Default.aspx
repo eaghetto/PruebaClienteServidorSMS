@@ -12,7 +12,10 @@
         <asp:Label ID="lblTemporarl" runat="server" Text=""></asp:Label>
         <br />
         <br />
-        <asp:Button ID="btnGenerarPost" runat="server" Text="Generar Post Texto" OnClick="btnGenerarPost_Click" />
+        <asp:Button ID="btnGenerarPost" runat="server" Text="Generar Posts" OnClick="btnGenerarPost_Click" />
+        <br />
+        <br />
+        <asp:Label ID="LblRutaArchivo" runat="server" Text=""></asp:Label>
     </div>
     </form>
 </body>

@@ -10,9 +10,11 @@ namespace PostTextos.Service.EstadisticasText
         {
             try
             {
-                Regex valExpresion = new Regex("n$ | N$");
                 int noPalabra = 0;
-
+               
+                texto = texto.Replace(".", "").Replace(",", "");
+                Regex valExpresion = new Regex(@"[n|N]$");
+            
                 //separo cada palabra
                 string[] palabras = texto.Split(' ');
 

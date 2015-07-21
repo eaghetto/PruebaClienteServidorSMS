@@ -12,7 +12,7 @@ namespace ClientePostTextosSMS
         {
             if (!IsPostBack)
             {
-                lblTemporarl.Text = "Haga Click en el boton para Generar los Post.";
+                lblTemporarl.Text = "Haga Click en el boton para Generar los Posts.";
             }
         }
 
@@ -23,13 +23,13 @@ namespace ClientePostTextosSMS
                 string pathArchivos = Request.PhysicalApplicationPath + @"\Archivos\ValidaEstadisticas.txt";
                 List<int> lstEstadisticas = new List<int>();
                 string texto = string.Empty;
+                LblRutaArchivo.Text = string.Empty;
 
                 CreaArchivo ca = new CreaArchivo();
                 GuardaArchivo ga = new GuardaArchivo();
 
                 for (int i = 0; i < 1000; i++)
                 {
-
                     texto = ca.postCreado();
 
                     HttpClient client = new HttpClient();
@@ -48,8 +48,9 @@ namespace ClientePostTextosSMS
 
                     texto = string.Empty;
                     lstEstadisticas.Clear();
-
                 }
+
+                LblRutaArchivo.Text = "Consulte el archivo de resultados en la siguiente ruta: " + pathArchivos;
             }
             catch (Exception ex)
             {

@@ -8,11 +8,9 @@ namespace PostTextos.Service.EstadisticasText
         {
             try
             {
-                int CuentaCaracteres = 0;
+                string transformaTexto = texto.Replace("N", "").Replace("n", "").Replace(" ", "").Replace(".", "").Replace(",", "");
 
-                CuentaCaracteres = texto.Length;
-
-                return CuentaCaracteres;
+                return transformaTexto.Length;
             }
             catch (Exception ex)
             {
