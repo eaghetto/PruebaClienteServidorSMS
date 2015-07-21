@@ -1,0 +1,7 @@
+C:\Users\Esteban\Documents\Visual Studio 2012\Projects\ValidaREST_PostTextos\ValidaREST_PostTextos\bin\ValidaREST_PostTextos.dll
+C:\Users\Esteban\Documents\Visual Studio 2012\Projects\ValidaREST_PostTextos\ValidaREST_PostTextos\bin\ValidaREST_PostTextos.pdb
+C:\Users\Esteban\Documents\Visual Studio 2012\Projects\ValidaREST_PostTextos\ValidaREST_PostTextos\bin\PostTextos.Service.dll
+C:\Users\Esteban\Documents\Visual Studio 2012\Projects\ValidaREST_PostTextos\ValidaREST_PostTextos\bin\PostTextos.Service.pdb
+C:\Users\Esteban\Documents\Visual Studio 2012\Projects\ValidaREST_PostTextos\ValidaREST_PostTextos\obj\Release\ValidaREST_PostTextos.dll
+C:\Users\Esteban\Documents\Visual Studio 2012\Projects\ValidaREST_PostTextos\ValidaREST_PostTextos\obj\Release\ValidaREST_PostTextos.pdb
+C:\Users\Esteban\Documents\Visual Studio 2012\Projects\ValidaREST_PostTextos\ValidaREST_PostTextos\obj\Release\ValidaREST_PostTextos.csprojResolveAssemblyReference.cache

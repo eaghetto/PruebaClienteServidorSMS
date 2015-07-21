@@ -1,0 +1,4 @@
+c:\users\esteban\documents\visual studio 2012\Projects\ClientePostTextosSMS\BRulesClientePostTextosSMS\bin\Release\BRulesClientePostTextosSMS.dll
+c:\users\esteban\documents\visual studio 2012\Projects\ClientePostTextosSMS\BRulesClientePostTextosSMS\bin\Release\BRulesClientePostTextosSMS.pdb
+c:\users\esteban\documents\visual studio 2012\Projects\ClientePostTextosSMS\BRulesClientePostTextosSMS\obj\Release\BRulesClientePostTextosSMS.dll
+c:\users\esteban\documents\visual studio 2012\Projects\ClientePostTextosSMS\BRulesClientePostTextosSMS\obj\Release\BRulesClientePostTextosSMS.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientePostTextosSMS", "ClientePostTextosSMS\ClientePostTextosSMS.csproj", "{5FE1AAC6-6D71-4E3B-A816-888704137374}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BRulesClientePostTextosSMS", "BRulesClientePostTextosSMS\BRulesClientePostTextosSMS.csproj", "{0A395DE3-1AD2-48D1-9ED5-237BE06798BF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{ACD48063-187C-4D57-846F-5EC123A939EE}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\packages.config = .nuget\packages.config
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FE1AAC6-6D71-4E3B-A816-888704137374}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FE1AAC6-6D71-4E3B-A816-888704137374}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FE1AAC6-6D71-4E3B-A816-888704137374}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FE1AAC6-6D71-4E3B-A816-888704137374}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A395DE3-1AD2-48D1-9ED5-237BE06798BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A395DE3-1AD2-48D1-9ED5-237BE06798BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A395DE3-1AD2-48D1-9ED5-237BE06798BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A395DE3-1AD2-48D1-9ED5-237BE06798BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

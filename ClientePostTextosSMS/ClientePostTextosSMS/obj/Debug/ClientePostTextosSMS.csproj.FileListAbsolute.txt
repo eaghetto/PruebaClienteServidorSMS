@@ -1,0 +1,8 @@
+c:\users\esteban\documents\visual studio 2012\Projects\ClientePostTextosSMS\ClientePostTextosSMS\bin\ClientePostTextosSMS.dll
+c:\users\esteban\documents\visual studio 2012\Projects\ClientePostTextosSMS\ClientePostTextosSMS\bin\ClientePostTextosSMS.pdb
+c:\users\esteban\documents\visual studio 2012\Projects\ClientePostTextosSMS\ClientePostTextosSMS\bin\BRulesClientePostTextosSMS.dll
+c:\users\esteban\documents\visual studio 2012\Projects\ClientePostTextosSMS\ClientePostTextosSMS\bin\System.Net.Http.dll
+c:\users\esteban\documents\visual studio 2012\Projects\ClientePostTextosSMS\ClientePostTextosSMS\bin\BRulesClientePostTextosSMS.pdb
+c:\users\esteban\documents\visual studio 2012\Projects\ClientePostTextosSMS\ClientePostTextosSMS\bin\System.Net.Http.xml
+c:\users\esteban\documents\visual studio 2012\Projects\ClientePostTextosSMS\ClientePostTextosSMS\obj\Debug\ClientePostTextosSMS.dll
+c:\users\esteban\documents\visual studio 2012\Projects\ClientePostTextosSMS\ClientePostTextosSMS\obj\Debug\ClientePostTextosSMS.pdb
